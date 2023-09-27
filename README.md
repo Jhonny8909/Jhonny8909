@@ -9,8 +9,10 @@ Soy un estudiante de la carrera de Ingenieria en desarrollo de sistemas interact
 |:-----------------------------|:-------------------------:|----------:|
 | 🟢C | Unity | [X](https://twitter.com/jhonny7809) |
 | 🟣C++||[Instagram](https://www.instagram.com/joelmp24/)
-| 🔵C#
+| 🔵C#||[Facebook](https://www.facebook.com/joelmp24/)
 | ⚪Java
 | 🔴HTML
 | 🟠CSS
 | 🟡JavaScript
+
+Correo electronico : jonathan_2910MP@outlook.com
